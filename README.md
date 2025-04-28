@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/maria-fernanda-de-souza-silva-33810b340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Maria_Fernanda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu.email@academico.ufjf.br">
+  <a href="mailto:mariasilva.fernanda@estudante.ufjf.br">
     <img src="https://img.shields.io/badge/Email_Acadêmico-ufjf.edu.br-D81B60?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
