@@ -5,7 +5,7 @@
 ---
 
 <div align="center" style="color:#E91E63">
-  <h2>🌸 Sobre Mim</h2>
+  <h2>🎥 Sobre Mim</h2>
   <p>Acadêmica de <strong>Jornalismo</strong> na <a href="https://www.ufjf.br/" target="_blank" style="color:#C2185B">Universidade Federal de Juiz de Fora (UFJF)</a></p>
   <p>Interesses em: Jornalismo Digital, Produção de Conteúdo, Redação e Comunicação Social</p>
 </div>
