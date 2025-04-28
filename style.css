@@ -1,0 +1,88 @@
+:root {
+  --primary-color: #2d3436;
+  --secondary-color: #0984e3;
+  --light-color: #f5f6fa;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: var(--light-color);
+  color: var(--primary-color);
+  line-height: 1.6;
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  text-align: center;
+  padding: 60px 0;
+}
+
+header h1 span {
+  color: #00cec9;
+}
+
+section {
+  padding: 60px 0;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2rem;
+  color: var(--secondary-color);
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 20px;
+  text-align: center;
+}
+
+.skill i {
+  font-size: 3rem;
+  color: var(--secondary-color);
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.social-links {
+  margin-top: 15px;
+}
+
+.social-links a {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+
+.social-links a:hover {
+  color: var(--secondary-color);
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}
