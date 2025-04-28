@@ -27,7 +27,7 @@
   <h2 style="color:#E91E63">📚 Formação Acadêmica</h2>
   <p><strong>Bacharelado em Jornalismo</strong></p>
   <p>Universidade Federal de Juiz de Fora (UFJF)</p>
-  <p>Previsão de conclusão: [ano]</p>
+  <p>Previsão de conclusão: [2028]</p>
 </div>
 
 ---
